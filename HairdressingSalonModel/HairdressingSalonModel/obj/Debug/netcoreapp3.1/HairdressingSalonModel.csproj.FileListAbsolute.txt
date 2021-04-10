@@ -1,0 +1,34 @@
+C:\Users\proko\source\repos\HairdressingSalonModel\HairdressingSalonModel\bin\Debug\netcoreapp3.1\HairdressingSalonModel.exe
+C:\Users\proko\source\repos\HairdressingSalonModel\HairdressingSalonModel\bin\Debug\netcoreapp3.1\HairdressingSalonModel.deps.json
+C:\Users\proko\source\repos\HairdressingSalonModel\HairdressingSalonModel\bin\Debug\netcoreapp3.1\HairdressingSalonModel.runtimeconfig.json
+C:\Users\proko\source\repos\HairdressingSalonModel\HairdressingSalonModel\bin\Debug\netcoreapp3.1\HairdressingSalonModel.runtimeconfig.dev.json
+C:\Users\proko\source\repos\HairdressingSalonModel\HairdressingSalonModel\bin\Debug\netcoreapp3.1\HairdressingSalonModel.dll
+C:\Users\proko\source\repos\HairdressingSalonModel\HairdressingSalonModel\bin\Debug\netcoreapp3.1\HairdressingSalonModel.pdb
+C:\Users\proko\source\repos\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.AssemblyInfoInputs.cache
+C:\Users\proko\source\repos\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.AssemblyInfo.cs
+C:\Users\proko\source\repos\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.csproj.CoreCompileInputs.cache
+C:\Users\proko\source\repos\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.dll
+C:\Users\proko\source\repos\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.pdb
+C:\Users\proko\source\repos\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.genruntimeconfig.cache
+C:\Users\proko\source\repos\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.FinalStatisticsForm.resources
+C:\Users\proko\source\repos\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.MainSimulationForm.resources
+C:\Users\proko\source\repos\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.OptionsForm.resources
+C:\Users\proko\source\repos\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.csproj.GenerateResource.cache
+C:\Users\proko\source\repos\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.csprojAssemblyReference.cache
+C:\Users\capri\source\repos\HairdressingSalonModel (2)\HairdressingSalonModel\HairdressingSalonModel\bin\Debug\netcoreapp3.1\HairdressingSalonModel.exe
+C:\Users\capri\source\repos\HairdressingSalonModel (2)\HairdressingSalonModel\HairdressingSalonModel\bin\Debug\netcoreapp3.1\HairdressingSalonModel.deps.json
+C:\Users\capri\source\repos\HairdressingSalonModel (2)\HairdressingSalonModel\HairdressingSalonModel\bin\Debug\netcoreapp3.1\HairdressingSalonModel.runtimeconfig.json
+C:\Users\capri\source\repos\HairdressingSalonModel (2)\HairdressingSalonModel\HairdressingSalonModel\bin\Debug\netcoreapp3.1\HairdressingSalonModel.runtimeconfig.dev.json
+C:\Users\capri\source\repos\HairdressingSalonModel (2)\HairdressingSalonModel\HairdressingSalonModel\bin\Debug\netcoreapp3.1\HairdressingSalonModel.dll
+C:\Users\capri\source\repos\HairdressingSalonModel (2)\HairdressingSalonModel\HairdressingSalonModel\bin\Debug\netcoreapp3.1\HairdressingSalonModel.pdb
+C:\Users\capri\source\repos\HairdressingSalonModel (2)\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.csprojAssemblyReference.cache
+C:\Users\capri\source\repos\HairdressingSalonModel (2)\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.FinalStatisticsForm.resources
+C:\Users\capri\source\repos\HairdressingSalonModel (2)\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.MainSimulationForm.resources
+C:\Users\capri\source\repos\HairdressingSalonModel (2)\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.OptionsForm.resources
+C:\Users\capri\source\repos\HairdressingSalonModel (2)\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.csproj.GenerateResource.cache
+C:\Users\capri\source\repos\HairdressingSalonModel (2)\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.AssemblyInfoInputs.cache
+C:\Users\capri\source\repos\HairdressingSalonModel (2)\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.AssemblyInfo.cs
+C:\Users\capri\source\repos\HairdressingSalonModel (2)\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.csproj.CoreCompileInputs.cache
+C:\Users\capri\source\repos\HairdressingSalonModel (2)\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.dll
+C:\Users\capri\source\repos\HairdressingSalonModel (2)\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.pdb
+C:\Users\capri\source\repos\HairdressingSalonModel (2)\HairdressingSalonModel\HairdressingSalonModel\obj\Debug\netcoreapp3.1\HairdressingSalonModel.genruntimeconfig.cache

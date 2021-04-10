@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ek7nGAsuGdJB+nPQoi39XboarUHvWpSnpjyirt9r8nmNB37vYbVBqaJoxTyv8gV0FR93fUWSxX/OZtfUJosYbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\capri\\source\\repos\\HairdressingSalonModel (2)\\HairdressingSalonModel\\HairdressingSalonModel\\HairdressingSalonModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\capri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

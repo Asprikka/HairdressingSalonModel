@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\capri\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\capri\\.nuget\\packages"
+    ]
+  }
+}
